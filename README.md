@@ -28,7 +28,7 @@ pip install scikit-learn numpy matplotlib
 ```
 
 #### How to Run Classification
-The entire training and evaluation pipeline is integrated in `main.py`.
+The entire training and evaluation pipeline is integrated in `run.py`.
 
 #### Hyperparameters
 
